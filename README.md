@@ -111,13 +111,10 @@ pong-game/
 
 ---
 
-# 📸 Screenshots
 
-## Gameplay
-```
-screenshots/
-    gameplay.png
-<img width="798" height="628" alt="image" src="https://github.com/user-attachments/assets/26d7837c-49d6-45f8-bf19-afb8ea1e78b3" />
+## 📸 Screenshot
+
+![Gameplay](screenshots/gameplay.png)
 
 
 # 💡 Future Improvements
